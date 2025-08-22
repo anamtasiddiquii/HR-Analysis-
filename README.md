@@ -47,7 +47,7 @@ To provide **HR leaders and decision-makers** with an interactive dashboard that
 
 ## 📸 Dashboard Preview
 
-![HR Analytics Dashboard]
+
 <img width="584" height="329" alt="image" src="https://github.com/user-attachments/assets/dbdcf19d-1eb3-4186-87e8-1cd072ce8600" />
 
 
@@ -62,7 +62,7 @@ To provide **HR leaders and decision-makers** with an interactive dashboard that
 
 If you’d like to connect, collaborate, or discuss data projects:
 
-* **Email:** [yourname@email.com](mailto:siddiquianamta974@email.com)
+* Email: siddiquianamta974@gmail.com
 
 ---
 
